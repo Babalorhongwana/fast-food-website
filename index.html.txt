@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fast Food Delight</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Fast Food Delight</h1>
+    <p>Your Go-To Place for Delicious Fast Food</p>
+  </header>
+
+  <section id="image-section">
+    <img src="images/your-image.jpg" alt="Fast Food Delight">
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>At Fast Food Delight, we pride ourselves on offering a wide range of delicious and freshly prepared fast food items. Whether you're craving burgers, fries, or a refreshing drink, we've got something for everyone. Visit us at our convenient location or order online for a quick and tasty meal.</p>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li><i class="fas fa-utensils"></i> Dine-In</li>
+      <li><i class="fas fa-truck"></i> Delivery</li>
+      <li><i class="fas fa-shopping-bag"></i> Takeaway</li>
+      <li><i class="fas fa-couch"></i> Drive-Thru</li>
+    </ul>
+  </section>
+
+  <section id="menu">
+    <h2>Our Menu</h2>
+    <ul>
+      <li><strong>Burgers:</strong> Classic Cheeseburger, Double Bacon Burger, Veggie Burger</li>
+      <li><strong>Fries:</strong> Regular Fries, Curly Fries, Sweet Potato Fries</li>
+      <li><strong>Drinks:</strong> Soda, Milkshakes, Iced Tea</li>
+      <li><strong>Combos:</strong> Burger Combo, Family Combo, Kids' Meal</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p><strong>Location:</strong> 123 Fast Food Lane, Foodville, 56789</p>
+    <p><strong>Phone:</strong> (123) 456-7890</p>
+    <p><strong>Email:</strong> contact@fastfooddelight.com</p>
+    <p><strong>Working Hours:</strong></p>
+    <ul>
+      <li>Monday - Friday: 10:00 AM - 10:00 PM</li>
+      <li>Saturday: 11:00 AM - 11:00 PM</li>
+      <li>Sunday: 12:00 PM - 8:00 PM</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Follow us on social media:</p>
+    <p>
+      <a href="#"><i class="fab fa-facebook-f"></i></a>
+      <a href="#"><i class="fab fa-twitter"></i></a>
+      <a href="#"><i class="fab fa-instagram"></i></a>
+    </p>
+    <p>Call us now at (123) 456-7890 or email us at contact@fastfooddelight.com.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+// script.js
+
+// Placeholder for potential JavaScript functionality
+console.log("JavaScript is linked properly.");
